@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anabellaherviassa.github.io/anabella.hs/sitemap.xml
